@@ -1,1 +1,5 @@
 venv/
+out_step2_temporal/
+youtube_step3_sentiment.csv
+youtube_step3_titles_punct.csv
+youtube_step3_titiles.csv
