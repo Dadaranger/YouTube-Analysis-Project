@@ -3,11 +3,11 @@
 
 **Last Updated:** October 3, 2025  
 **Dataset:** 13,017 YouTube Trending Videos (July-September 2024)  
-**Analysis Status:** ✅ Complete with Validated Methodology
+**Analysis Status:**  Complete with Validated Methodology
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Recent Updates & Fixes](#recent-updates--fixes)
@@ -19,7 +19,7 @@
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project analyzes **13,017 YouTube trending videos** from the United States (July-September 2024) to answer three critical questions for content creators:
 
@@ -32,7 +32,7 @@ We use **median log1p(views)** instead of raw mean views - a critical methodolog
 
 ---
 
-## 🔄 Recent Updates & Fixes (October 2025)
+##  Recent Updates & Fixes (October 2025)
 
 ### What Was Fixed:
 
@@ -86,7 +86,7 @@ We use **median log1p(views)** instead of raw mean views - a critical methodolog
 
 ---
 
-## 📊 Analysis Steps & Methodology
+## Analysis Steps & Methodology
 
 ### Step 1: Data Preparation & Cleaning
 
@@ -260,7 +260,7 @@ Output:
 
 ---
 
-## 🔬 Statistical Methodology
+##  Statistical Methodology
 
 ### Why Log Transformation is CRITICAL
 
@@ -302,9 +302,9 @@ We compared recommendations from three methods:
 
 | Method | Top Recommendation | Sample Size | Typical Views | Reliability |
 |--------|-------------------|-------------|---------------|-------------|
-| **Raw Mean** | Sat 8PM | 32 ⚠️ | 633K | Low (small n, one 91M outlier) |
-| **Raw Median** | Sat 3PM | 385 ✅ | 961K | High |
-| **Log Median** ✅ | **Sat 3PM** | **385** ✅ | **961K** | **High** |
+| **Raw Mean** | Sat 8PM | 32  | 633K | Low (small n, one 91M outlier) |
+| **Raw Median** | Sat 3PM | 385 | 961K | High |
+| **Log Median** | **Sat 3PM** | **385** | **961K** | **High** |
 
 **Key Finding:** Only 40% of top 5 recommendations overlap between raw mean and log median methods!
 
@@ -334,7 +334,7 @@ We compared recommendations from three methods:
 - Not inflated by extreme values
 - Interpretable: "half of videos do better, half do worse"
 
-**Combined:** Log + Median = Robust metric for heavy-tailed data ✅
+**Combined:** Log + Median = Robust metric for heavy-tailed data 
 
 ---
 
@@ -375,7 +375,7 @@ We analyze subgroups separately because:
 
 ---
 
-## 🔄 Data Pipeline
+##  Data Pipeline
 
 ### Complete Flow:
 
@@ -470,7 +470,7 @@ Project/
 
 ---
 
-## 🔧 Technical Implementation
+## Technical Implementation
 
 ### Environment Setup:
 
@@ -552,7 +552,7 @@ df["sent_title"] = df["title"].apply(lambda x: TextBlob(str(x)).sentiment.polari
 
 ---
 
-## 📖 Reproducibility Guide
+## Reproducibility Guide
 
 ### Running the Analysis:
 
@@ -600,7 +600,7 @@ Check that these files were created:
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 ### Data Science Skills Demonstrated:
 
@@ -641,7 +641,7 @@ Check that these files were created:
 
 ---
 
-## 📞 Project Information
+## Project Information
 
 **Course:** IE 7945 - Data Analytics  
 **Institution:** [Your Institution]  

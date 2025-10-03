@@ -4,7 +4,7 @@
 
 ---
 
-## 📊 [README_PROJECT.md](./README_PROJECT.md) - Technical Documentation
+## [README_PROJECT.md](./README_PROJECT.md) - Technical Documentation
 **For developers, researchers, and those interested in methodology**
 
 Contains:
@@ -15,7 +15,7 @@ Contains:
 - **Code Implementation**: Python patterns, reproducibility guide
 - **Technical Details**: Time zone handling, outlier treatment, sample size considerations
 
-👉 **Read this if you want to:**
+ **Read this if you want to:**
 - Understand or reproduce the analysis
 - Learn the technical implementation
 - See the statistical reasoning behind our choices
@@ -23,7 +23,7 @@ Contains:
 
 ---
 
-## 🎯 [README_FINDINGS.md](./README_FINDINGS.md) - Key Insights & Recommendations
+## [README_FINDINGS.md](./README_FINDINGS.md) - Key Insights & Recommendations
 **For content creators, marketers, and those seeking actionable insights**
 
 Contains:
@@ -35,7 +35,7 @@ Contains:
 - **Format-Specific Tips**: Different strategies for Shorts, Music, etc.
 - **Statistical Confidence**: How reliable are these recommendations?
 
-👉 **Read this if you want to:**
+ **Read this if you want to:**
 - Optimize your YouTube content strategy
 - Learn what drives video performance
 - Get actionable recommendations backed by 13K+ videos
@@ -58,7 +58,7 @@ Contains:
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **For Content Creators**: Jump straight to [README_FINDINGS.md](./README_FINDINGS.md) → "Actionable Recommendations"
 
@@ -88,9 +88,9 @@ YouTube Analysis Project/
 
 **Having trouble deciding which README to read?**
 
-- 🔧 **Technical questions** (methodology, code, statistics) → [README_PROJECT.md](./README_PROJECT.md)
-- 💡 **Strategy questions** (what works, best practices) → [README_FINDINGS.md](./README_FINDINGS.md)
-- 🤔 **Both?** Start with FINDINGS for insights, then dive into PROJECT for details!
+-  **Technical questions** (methodology, code, statistics) → [README_PROJECT.md](./README_PROJECT.md)
+-  **Strategy questions** (what works, best practices) → [README_FINDINGS.md](./README_FINDINGS.md)
+-  **Both?** Start with FINDINGS for insights, then dive into PROJECT for details!
 
 ---
 
