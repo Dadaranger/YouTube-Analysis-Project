@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 Why A/B Test?
+## 📊 Why A/B (not a real A/B testing) Test?
 
 Our model predicts that optimizing **descriptions** and **posting time** can improve views by **+40-60%**. This test will:
 
