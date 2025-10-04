@@ -94,6 +94,6 @@ YouTube Analysis Project/
 
 ---
 
-**Last Updated**: January 2025  
+**Last Updated**: October 2025  
 **Dataset Period**: July-September 2024  
 **Videos Analyzed**: 13,017 trending videos
