@@ -8,3 +8,7 @@ lightgbm
 xgboost
 wordcloud
 seaborn
+shap
+scipy
+statsmodels
+jupyter

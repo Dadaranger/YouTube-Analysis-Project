@@ -2,7 +2,7 @@
 ## Complete Technical Documentation & Methodology
 
 **Last Updated:** October 11, 2025  
-**Dataset:** 13,017 YouTube Trending Videos (July-September 2024)  
+**Dataset:** 13,017 YouTube Trending Videos (July-September 2024) Source: https://www.kaggle.com/datasets/pyuser11/youtube-trending-videos-updated-daily
 **Project Status:** Complete - Analysis + Production-Ready ML Models + Interactive Tool
 
 **Models:** LightGBM Regressor (R²=0.8344) + XGBoost Classifier (72.5% accuracy)
