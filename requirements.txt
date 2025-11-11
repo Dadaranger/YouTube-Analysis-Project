@@ -12,3 +12,6 @@ shap
 scipy
 statsmodels
 jupyter
+sentence-transformers
+torch
+transformers
